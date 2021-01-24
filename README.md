@@ -1,5 +1,4 @@
-# TensorflowTests
-Exercises to learn tensorflow 2.X
+# Tensorflow Projects
 
 Conding models made in tf.keras
 Matrix and vector opetarions made with NumPy
